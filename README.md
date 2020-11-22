@@ -1,1 +1,11 @@
 # jaruspong4.github.io
+
+# Biography
+
+![Profile Image](/1.jpg)
+
+Jaruspong Tongboon received his B.S. in Information System from Ramangala University of Technology Lanna in 2013.
+
+Jaruspong Tongboon joined the IT Auditor at Ibank in July 2020. 
+
+His hobbies include Fitness, Party, and He is a Drunker 
