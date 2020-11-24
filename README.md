@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 - ISO/IEC27001:2013 (Information Security Management System: ISMS)
 
-- Risk Manamgement (IT)
+- Risk Management (IT)
 
 - Business Continuity Plan/Disater Recovery Plan (BCP/DRP)
 
