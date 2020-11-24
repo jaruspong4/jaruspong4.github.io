@@ -60,7 +60,3 @@ ________________________________________________________________________________
 - I like to drink beer in my spare time.
 
 - My AKA is "Drunkard".
-
-order = "HellowWorld"
-for x in range(3):
-	print(order)
