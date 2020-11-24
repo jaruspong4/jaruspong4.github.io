@@ -8,7 +8,11 @@ Name: Jaruspong Lastname: Tongboon
 ______________________________________________________________________________________________________________
 # Educational detail:
 
-Graduated with a bachelor's degreeis in Computer Science from Ramangala University of Technology Lanna in 2013.
+- Currently studying at Mahanakorn University of Technology Faculty of Science and Information Technology. 
+  
+  Network Engineering Information Security (Cyber ​​security).
+
+- Graduated with a bachelor's degreeis in Computer Science from Ramangala University of Technology Lanna in 2013.
 
 ______________________________________________________________________________________________________________
 # Work history details:
