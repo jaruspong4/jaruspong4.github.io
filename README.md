@@ -14,6 +14,7 @@ ________________________________________________________________________________
 
 - Graduated with a bachelor's degreeis in Computer Science from Ramangala University of Technology Lanna in 2013.
 
+  Information System
 ______________________________________________________________________________________________________________
 # Work history details:
 
