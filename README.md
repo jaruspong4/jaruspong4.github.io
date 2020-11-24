@@ -20,7 +20,7 @@ Position: Senior IT Auditor
 Organization: ISLAMIC BANK OF THAILAND (ibank)
 
 
-#Nov. 2019 - Jun. 2020
+# Nov. 2019 - Jun. 2020
 
 Position: IT Risk Manangement
 
@@ -56,7 +56,7 @@ ________________________________________________________________________________
 
 - Business Continuity Plan/Disater Recovery Plan (BCP/DRP)
 
-- IT security (A Little)
+- IT security (A little)
 
 ______________________________________________________________________________________________________________
 # Personal Details:
