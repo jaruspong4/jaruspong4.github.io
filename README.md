@@ -12,9 +12,12 @@ ________________________________________________________________________________
   
   Network Engineering Information Security (Cyber ​​security).
 
-- Graduated with a bachelor's degreeis in Computer Science from Ramangala University of Technology Lanna in 2013.
+- Graduated with a bachelor's degreeis in Faculty of Business Administration and Liberal Arts from Ramangala 
+  
+  University of Technology Lanna in 2013.
 
-  Information System
+  Information System (IS).
+  
 ______________________________________________________________________________________________________________
 # Work history details:
 
