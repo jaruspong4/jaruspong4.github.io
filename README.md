@@ -6,14 +6,14 @@
 
 Name: Jaruspong Lastname: Tongboon 
 ______________________________________________________________________________________________________________
-#Educational detail:
+# Educational detail:
 
 Graduated with a bachelor's degreeis in Computer Science from Ramangala University of Technology Lanna in 2013.
 
 ______________________________________________________________________________________________________________
-#Work history details:
+# Work history details:
 
-#Jul. 2020 - Present
+# Jul. 2020 - Present
 
 Position: Senior IT Auditor 
 
@@ -27,36 +27,40 @@ Position: IT Risk Manangement
 Organization: Bangkok Commercial Asset Management Public Co., Ltd. (BAM)
 
 
-#Mar. 2017 - Oct. 2019
+# Mar. 2017 - Oct. 2019
 
 Position: IT Auditor
 
 Organization: Small and Medium Enterprise Development Bank of THAILAND
 
 
-#Jul. 2013 - Feb. 2017
+# Jul. 2013 - Feb. 2017
 
 Position: IT Technician 
 
 Organization: MAEHONGSON TEACHER SAVING CO., Ltd.
 
 ______________________________________________________________________________________________________________
-#Basic Skill
+# Basic Skill
 
 - Emergency First Response (FR)
 
 - Personal Trainner Fitness (PT)
 
 ______________________________________________________________________________________________________________
-#Knowlegde Base:
+# Knowlegde Base:
 
 - ISO/IEC27001:2013 (Information Security Management System: ISMS)
 
 - Business Continuity Plan/Disater Recovery Plan (BCP/DRP)
 
 ______________________________________________________________________________________________________________
-#Personal Details:
+# Personal Details:
 
 - I like to drink beer in my spare time.
 
 - My AKA is "Drunkard".
+
+order = "HellowWorld"
+for x in range(3):
+	print(order)
