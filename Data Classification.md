@@ -1,4 +1,4 @@
-# Data Classification
+# V.6.1 Data Classification
 
 ตามมาตรฐาน ISO/IEC 27001:2013 (Information Security Management System: ISMS) นั้น ได้มีการกล่าวถึง Data Classification (A.8.2 Information Classification) ซึ่งจะกล่าวถึงการจัดลำดับชั้นความลับของข้อมูลในองค์กร โดยมีวัตถุประสงค์ เพื่อให้มั่นใจว่า ข้อมูลได้รับการป้องกันในระดับที่เหมาะสม สอดคล้องกับความสำคัญขององค์กร
 
