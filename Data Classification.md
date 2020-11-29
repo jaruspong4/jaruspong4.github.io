@@ -1,9 +1,3 @@
-[OWASP ASVS (Application Security Verification Standard)](https://owasp.org/www-project-application-security-verification-standard/)
-
-# V12.4 File Storage Requirements
-
-## 12.4.1 Verify that files obtained from untrusted sources are stored outside the web root, with limited permissions, preferably with strong validation.
-
 # Data Classification
 
 ตามมาตรฐาน ISO/IEC 27001:2013 (Information Security Management System: ISMS) นั้น ได้มีการกล่าวถึง Data Classification (A.8.2 Information Classification) ซึ่งจะกล่าวถึงการจัดลำดับชั้นความลับของข้อมูลในองค์กร โดยมีวัตถุประสงค์ เพื่อให้มั่นใจว่า ข้อมูลได้รับการป้องกันในระดับที่เหมาะสม สอดคล้องกับความสำคัญขององค์กร
