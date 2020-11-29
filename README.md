@@ -1,7 +1,3 @@
-# jaruspong4.github.io
-
-# Biography
-
 ![Profile Image](/1.jpg)
 
 Name: Jaruspong Lastname: Tongboon 
